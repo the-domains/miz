@@ -1,0 +1,14 @@
+layout_spectrum: 0.7958166829776019
+typography_spectrum: 0.40920116915367544
+color:
+  brandStrength: 0.003816543612629175
+  lightness: 0.8915795942302793
+  saturation: 0.026982665061950684
+  rhythmicContrast: 0.6503233260009438
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: miz
