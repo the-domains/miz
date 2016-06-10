@@ -4,17 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Playing around with The Grid beta.
-datePublished: '2016-06-10T05:39:50.063Z'
-dateModified: '2016-06-10T05:39:49.745Z'
-authors: []
-publisher: null
+description: Does this thing really work?
+datePublished: '2016-06-10T05:46:36.420Z'
+dateModified: '2016-06-10T05:42:37.700Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-10-playing-around-with-the-grid-beta.md
+authors: []
+publisher: null
+starred: false
 url: playing-around-with-the-grid-beta/index.html
 _type: Article
 
 ---
-Playing around with The Grid beta.
+# Playing around with The Grid beta.
+
+Does this thing _really_ work?
