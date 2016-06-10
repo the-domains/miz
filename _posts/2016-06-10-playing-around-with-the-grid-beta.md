@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Does this thing really work?
-datePublished: '2016-06-10T05:53:41.967Z'
-dateModified: '2016-06-10T05:53:37.431Z'
+datePublished: '2016-06-10T05:54:38.555Z'
+dateModified: '2016-06-10T05:54:32.787Z'
 title: Playing around with The Grid beta.
 author: []
 sourcePath: _posts/2016-06-10-playing-around-with-the-grid-beta.md
@@ -22,3 +22,4 @@ _type: Article
 # Playing around with The Grid beta.
 
 Does this thing _really_ work?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f40ce-3137-42d8-a9af-360b0c300174.png)
