@@ -1,3 +1,16 @@
+layout_spectrum: 0.6758939085993916
+typography_spectrum: 0.4427285557612777
+color:
+  saturation: 0.4354839
+  brandStrength: 0.003816543612629175
+  lightness: 0.7795699
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  rhythmicContrast: 0.8691756
 collections:
   - index:
       path: /
@@ -10,17 +23,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2293907
-color:
-  saturation: 0.4354839
-  brandStrength: 0.003816543612629175
-  lightness: 0.7795699
-  brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-  rhythmicContrast: 0.8691756
-layout_spectrum: 0.5376344
 name: miz
